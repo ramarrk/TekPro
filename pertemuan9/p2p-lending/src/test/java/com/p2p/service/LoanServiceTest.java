@@ -54,6 +54,7 @@ public class LoanServiceTest {
         });
     }
 
+
     @Test
     void shouldApproveLoanWhenCreditScoreHigh() {
         // TC - 03
